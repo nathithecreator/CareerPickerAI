@@ -1,0 +1,6 @@
+@CareerPicker_HostAddress = http://localhost:5285
+
+GET {{CareerPicker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
